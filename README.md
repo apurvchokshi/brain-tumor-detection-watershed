@@ -6,6 +6,8 @@ This project is a brain tumor detection application built using image preprocess
 
 **Hugging Face Space**: https://huggingface.co/spaces/apurv20/Brain_Tumor_Detection_with_Watershed
 
+https://apurv20-brain-tumor-detection-with-watershed.hf.space/
+
 ## ✨ Features
 
 - **MRI Image Upload**: Simple interface to upload brain MRI scans
