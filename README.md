@@ -4,9 +4,12 @@ This project is a brain tumor detection application built using image preprocess
 
 ## 🎯 Live Demo
 
-**Hugging Face Space**: https://huggingface.co/spaces/apurv20/Brain_Tumor_Detection_with_Watershed
+**Hugging Face Space**: 
 
-https://apurv20-brain-tumor-detection-with-watershed.hf.space/
+[![Hugging Face Spaces](https://img.shields.io/badge/Hugging%20Face-Spaces-yellow?logo=huggingface)](https://huggingface.co/spaces/apurv20/Brain_Tumor_Detection_with_Watershed)
+
+- **Project Page:** [Hugging Face Space](https://huggingface.co/spaces/apurv20/Brain_Tumor_Detection_with_Watershed)
+- **Direct App:** [Launch App](https://apurv20-brain-tumor-detection-with-watershed.hf.space/)
 
 ## ✨ Features
 
